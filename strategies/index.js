@@ -4,6 +4,7 @@ const STRATEGIES = {
   apikey: require('./key'),
   cognito: require('./cognito'),
   google: require('./google'),
+  okta: require('./okta'),
   ldap: require('./ldap'),
   twitter: require('./twitter'),
   slack: require('./slack'),
